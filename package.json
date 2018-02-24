@@ -1,0 +1,25 @@
+{
+  "name": "benode",
+  "version": "1.0.0",
+  "description": "benode",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:benvirus/benode.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "FEZ",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "date-format": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "multiparty": "^4.1.3",
+    "mysql": "^2.15.0",
+  }
+}

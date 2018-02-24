@@ -1,0 +1,3 @@
+#! /usr/bin/env node
+require('../framwork/global');
+require(__serverdir + '/framwork/Command');
