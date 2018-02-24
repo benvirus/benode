@@ -4,4 +4,4 @@
 
 ## 开发文档
 
-[Develop Document](http://coding.codeages.net/FEZ/fez-api/blob/master/doc/develop.md)
+[Develop Document](https://github.com/benvirus/benode/blob/master/doc/develop.md)
